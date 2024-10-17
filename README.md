@@ -1,10 +1,8 @@
-# Impact_of_Remote_Work_on_Mental_Health
+# Impact of Remote Work on Mental Health - Exploratory Data Analysis (EDA)
 
 **Overview**
 
-This project analyzes the effects of remote work on mental health using a dataset titled "Impact of Remote Work on Mental Health". The goal is to explore trends, correlations, and insights that could help understand how remote work influences various mental health factors.
-
-The analysis was performed using Python with pandas, seaborn, and matplotlib for data manipulation and visualization.
+This project explores the effects of remote work on mental health using a dataset collected from various remote workers. The analysis aims to uncover trends and patterns that could help organizations better understand the potential mental health impacts of remote working environments.
 
 **Dataset**
 
