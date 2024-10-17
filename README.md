@@ -6,8 +6,8 @@ This project explores the effects of remote work on mental health using a datase
 
 **Features**
 
-Dataset: This dataset includes employee demographics, job roles, work conditions, and mental health assessments.
-Analysis: The analysis investigates missing data, outliers, and the distribution of key variables.
+Dataset: This dataset includes employee demographics, job roles, work conditions, and mental health assessments.  
+Analysis: The analysis investigates missing data, outliers, and the distribution of key variables.  
 Visualization: Visuals like bar plots, histograms, and pie charts depict the relationships between different attributes.
 
 **Dataset**
@@ -18,8 +18,7 @@ Source: [Remote Work and Mental Health Dataset from Kaggle](https://www.kaggle.c
 
 **Dataset Description**
 
-The dataset consists of 5,000 rows and 20 columns, covering attributes such as:
-
+The dataset consists of 5,000 rows and 20 columns, covering attributes such as:  
 - Employee Information: Employee ID, Age, Gender, Job Role, Industry, Region.
 - Work Conditions: Work Location, Hours Worked, Number of Virtual Meetings, Work-Life Balance Rating.
 - Mental Health: Stress Level, Mental Health Condition, Access to Resources, Social Isolation Rating.
@@ -29,11 +28,9 @@ The dataset consists of 5,000 rows and 20 columns, covering attributes such as:
 
 ***Key Insights***
 
-Age Distribution: Employees range from 22 to 60 years old, with the majority in their 30s and 40s. 
-
-Mental Health Conditions: The most reported mental health conditions are depression and anxiety.
-Work Satisfaction: A considerable percentage of employees report dissatisfaction with remote work.
-
+Age Distribution: Employees range from 22 to 60 years old, with the majority in their 30s and 40s.  
+Mental Health Conditions: The most reported mental health conditions are depression and anxiety.  
+Work Satisfaction: A considerable percentage of employees report dissatisfaction with remote work.  
 Social Isolation: High social isolation ratings are associated with reduced mental well-being.
 
 
